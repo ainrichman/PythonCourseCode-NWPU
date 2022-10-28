@@ -4,4 +4,6 @@ requests==2.28.1
 selenium==4.5.0
 torchvision==0.13.1+cu113
 transformers==4.16.2
+diffusers
 opencv_contrib_python==4.2.0.32
+scipy
