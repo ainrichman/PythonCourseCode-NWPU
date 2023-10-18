@@ -36,3 +36,6 @@ In the beginning, I assume you are running your code on Windows 10 or 11 Platfor
 10. Download Stable diffusion model from https://pan.baidu.com/s/1wSQIH246RL0J-MonXbElTQ code:3auv.
 Copy the whole folder to /diffstable/. (Running Diffuse stable AI painting model requires you have at least 4G GPU Memory). You have to donwload NVIDIA Driver from https://www.nvidia.com/download/index.aspx according to your GPU card.
 If you have other issues with the instructions above. Please contact with me.
+
+11. For the first time run Faceswap, you need to download inswapper_128.onnx file and copy it to faceswap/.
+url: https://huggingface.co/ezioruan/inswapper_128.onnx/blob/main/inswapper_128.onnx

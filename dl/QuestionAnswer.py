@@ -11,7 +11,7 @@ context = """2010年，黄晓明离开华谊兄弟文化经纪公司与经纪人
 除片约不断外，黄晓明也投资生意，包括饭店餐厅、红酒、高尔夫球场、医院等；积极参与慈善，
 更曾任联合国儿童基金会形象大使、中国儿童少年基金会形象大使、中国保护大熊猫研究中心爱心大使。
 据《每日经济新闻》报道，黄晓明名下拥有48家公司，其中投资类公司有14家[7]。"""
-question = "黄晓明是哪年被评为山东省十大杰出青年之一？"
+question = "黄晓明做了哪些投资？"
 result = qa(question=question, context=context)
 print("Answer:", result['answer'])
 print("Score:", result['score'])
